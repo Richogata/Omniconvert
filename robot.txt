@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bespoke-dieffenbachia-0d364b.netlify.app/sitemap.xml
